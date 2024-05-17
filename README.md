@@ -54,6 +54,7 @@ This repo uses Create React App and includes essential setups:
    - Product Description
    - Product Allergen Info
    - On Click “Add” - Should submit a post request to endpoint: `/products`
+### done in 1n half hour...
 
 ### Task 2: Individual Product Details
 
@@ -63,8 +64,11 @@ This repo uses Create React App and includes essential setups:
 
 1. Fetch individual product data from the server using the endpoint: `/products/:id`.
 2. Display product information including product name, price, description, allergens, and usage instructions.
+#### usage instructions ich nhi h, cooking instructions h..
 3. Implement expandable/collapsible sections for the description, allergen information, and usage (all sections should be able to expand/collapse independently).
 4. Show a “Loading…” text when details are loading.
+#### was done in 30min
+
 
 ### Task 3: Code Improvement
 
@@ -75,6 +79,7 @@ This repo uses Create React App and includes essential setups:
 1. Develop a custom hook for fetching data from the server and sending requests.
 2. Ensure you handle errors—simply show a text message: “Something went wrong.”
 3. Memoize the computed values.
+#### did in 1hr custom hooks got me.. i have used the naive approch of doing the process, as iam in begining stages hope that great...
 
 ### Bar Raiser: Dashboard
 
@@ -91,9 +96,13 @@ This is optional but would help us understand your current proficiency level, so
   - Provide a "Check" button for each element (row).
   - Clicking this button should remove the element from the page without reloading, allowing for continuous operations.
 - Add a search bar on top of table that supports "contains" search for product name or ID.
-
+#### completed at 810 including optional task
+#### 3hr 20 min time taken in total
+#### for css iwill spen 30 min
 ## Submission
 
 Ensure you've pushed all changes and added the repository owner as a collaborator for evaluation.
 
 Good luck!
+
+#### i am going to submit at 930 hopefully after aplying css thats for now...
